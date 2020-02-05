@@ -1,0 +1,46 @@
+html{
+	background-color: white;
+}
+
+body{
+	background-color: #ede6e6;
+	margin: 0 auto;
+	width: 960px;
+	font-family: ariel, helvetica, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #37353;
+}
+
+/* header section */
+
+header{
+	height: 150px;
+	padding-top: 20px;
+}
+
+ul{
+	padding: 0;
+}
+
+li{
+	display: inline;
+	padding: 10px;
+	font-size: 16px;
+}
+
+header li:first-child {
+	border-right: 1px solid #373535;
+}
+
+.right{
+	width: 320px;
+	float: right;
+}
+
+.left{
+	width: 320px;
+	float: left;
+}
