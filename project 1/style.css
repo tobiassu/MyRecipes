@@ -35,11 +35,12 @@ header li:first-child {
 	border-right: 1px solid #373535;
 }
 
-.left{
+.left {
 	width: 320px;
 	float: left;
 }
 
-.right{
+.right {
+	width: 320px;
 	float: right;
 }
